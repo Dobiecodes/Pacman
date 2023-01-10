@@ -1,6 +1,6 @@
 # PacMan Factory
 <img src="PacMan1.png" width='100'>
-This exercize is building a feature of this game, which displays and moves PacMan from one side of the screen to the other. 
+This exercise is building a feature of this game, which displays and moves PacMan from one side of the screen to the other. 
 
 ## Task Description
 
